@@ -17,5 +17,4 @@ To view the game you can clone the entire repository using above URL then open `
 
 1. Go to [this](http://htmlpreview.github.io/)  URL.
 2. Paste the URL on colorProject.html file in it i.e. `https://github.com/suhailakhtar039/ColorProject/blob/master/colorProject.html`.
-3. It will open the HTML viewer without cloning.
-
+3. It will open the HTML viewer without your need of cloning it.
