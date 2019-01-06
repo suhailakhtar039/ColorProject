@@ -13,4 +13,4 @@ It is made only on front end. It includes html, css and javascript only.
 To clone entire repository run `git clone https://github.com/suhailakhtar039/ColorProject.git` on your machine.
 
 ### Steps
-To view the game go to this URL http://htmlpreview.github.io/?https://github.com/suhailakhtar039/ColorProject/blob/master/colorProject.html
+To view the game go to this URL https://stark-river-50691.herokuapp.com/
